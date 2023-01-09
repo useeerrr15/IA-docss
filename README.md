@@ -11,9 +11,9 @@ Subdisciplina del campo de la Informática que busca la creación de máquinas q
 
 ## Campos de aplicación de la Inteligencia Artificial 
 
-* Robótica 
-* NLP
-* Voz
+*Robótica 
+*NLP
+*Voz
 
  ## Aprendizaje Automático (Machine Learning)
  
@@ -21,4 +21,36 @@ Subdisciplina del campo de la Informática que busca la creación de máquinas q
  
  ## Paradigmas de aprendizaje 
  
-* Aprendizaje 
+*Aprendizaje supervisado
+*Aprendizaje no supervisado
+*Aprendizaje reforzado
+
+## Técnicas de Aprendizaje Automático
+
+*Árboles de decisión
+*Modelos de regresión
+*Modelos de clasificación
+*Modelos de clusterización
+*Modelos de redes neuronales
+
+## Redes neuronales
+
+Son capaces de aprender de forma jerarquizada.Están formadas por capas de neuronas donde las primeras capas aprenden conceptos más
+
+También son conocidos como algoritmmos de Deep Learning.
+
+## Big Data
+Es una tendencia 
+
+
+
+
+
+
+
+
+
+
+
+
+
