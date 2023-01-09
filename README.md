@@ -21,3 +21,4 @@ Subdisciplina del campo de la Informática que busca la creación de máquinas q
  
  ## Paradigmas de aprendizaje 
  
+* Aprendizaje 
